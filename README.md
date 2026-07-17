@@ -6,7 +6,7 @@
 **Course:** Programming Fundamentals (CSC103)  
 **Program:** BS Computer Engineering  
 **Institution:** COMSATS University Islamabad, Attock Campus  
-**Department:** Electrical and Computer Engineering
+**Department:** Computer Engineering
 
 ---
 
